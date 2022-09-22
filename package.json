@@ -1,0 +1,15 @@
+{
+  "name": "@njingu90/nodetest",
+  "version": "1.9.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
